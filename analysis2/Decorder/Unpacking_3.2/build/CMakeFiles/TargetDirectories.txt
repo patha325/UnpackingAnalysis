@@ -1,0 +1,10 @@
+/root/analysis2/Decorder/Unpacking_3.2/build/src/CMakeFiles/BabyMINDUnpack.dir
+/root/analysis2/Decorder/Unpacking_3.2/build/examples/CMakeFiles/GTrigTagSearch.dir
+/root/analysis2/Decorder/Unpacking_3.2/build/examples/CMakeFiles/HG_vs_LG_calib.dir
+/root/analysis2/Decorder/Unpacking_3.2/build/examples/CMakeFiles/LG_vs_ToT_calib.dir
+/root/analysis2/Decorder/Unpacking_3.2/build/examples/CMakeFiles/NewAnalysis.dir
+/root/analysis2/Decorder/Unpacking_3.2/build/examples/CMakeFiles/RootFileAnalyssis.dir
+/root/analysis2/Decorder/Unpacking_3.2/build/examples/CMakeFiles/TDMunpack.dir
+/root/analysis2/Decorder/Unpacking_3.2/build/examples/CMakeFiles/dump.dir
+/root/analysis2/Decorder/Unpacking_3.2/build/examples/CMakeFiles/ufe-monitor.dir
+/root/analysis2/Decorder/Unpacking_3.2/build/examples/CMakeFiles/unpack.dir

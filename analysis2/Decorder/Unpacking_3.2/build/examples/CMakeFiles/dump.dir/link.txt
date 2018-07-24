@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -O3 -std=c++11    CMakeFiles/dump.dir/babyMindDataDump.cpp.o  -o ../../bin/dump  -L/root/analysis2/Decorder/Unpacking_3.2/lib  -L/usr/local/lib -rdynamic ../../lib/libBabyMINDUnpack.so -Wl,-rpath,/root/analysis2/Decorder/Unpacking_3.2/lib:/usr/local/lib 
